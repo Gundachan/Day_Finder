@@ -1,0 +1,34 @@
+body{
+    font-family:Apple Chancery, cursive;
+    margin: 50px;
+    background: #00ffff;
+}
+#container{
+    width: 950px;
+    height: 550px;
+    background-color: #8000ff;
+    margin: auto;
+    border-radius: 30px;
+}
+h1{
+    font-size: 47px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    background: #0040ff;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+#weekday{
+    font-size: 100px;
+    color: #dd5800;
+    font-weight: 800;
+    margin-left: 270px;
+}
+#phrase{
+    font-size: 20px;
+    color: #0000ff;
+    font-weight: 800;
+    margin-left: 390px;
+}
